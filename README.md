@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, ich bin Toilet
 
-<!--
-**Toilette67/Toilette67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Über mich
 
-Here are some ideas to get you started:
+Ich habe ursprünglich mit Java angefangen, hauptsächlich wegen Minecraft (Plugins/Mods usw.).
+Inzwischen möchte ich Java aber allgemein lernen, also richtig sauber und von Grund auf.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Wenn ich damit weiter bin, möchte ich später auch C++ oder C# lernen.
+
+💻 Was ich gerade mache
+
+Lerne Java Schritt für Schritt
+
+Mehr und Mehr Java lernen. o_0
+
+🎯 Ziele
+
+Java solide beherrschen
+
+Danach entweder C++ oder C# angehen
+
+📂 Projekte
+
+Ich lade hier alles hoch, was ich zum Lernen baue – Tests, kleine Programme, Experimente, Minecraft-bezogene Sachen usw.
